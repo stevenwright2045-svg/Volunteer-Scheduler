@@ -1,0 +1,16 @@
+Copyright (c) 2025 Steven Wright (stevenwright2045-svg)
+All rights reserved.
+
+This software and associated files (the "Software") are the exclusive property
+of Chuck Wright. No part of this Software may be reproduced, distributed,
+modified, adapted, or used in any form without the express written permission
+of the author.
+
+Unauthorized copying, redistribution, or commercial use of this Software,
+in whole or in part, is strictly prohibited.
+
+This Software is provided "as is", without warranty of any kind, express or
+implied. The author shall not be liable for any claims, damages, or other
+liability arising from the use of this Software.
+
+For permissions or inquiries, contact: steven.wright2045@gmail.com
